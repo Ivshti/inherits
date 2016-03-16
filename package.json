@@ -12,8 +12,7 @@
     "browser",
     "browserify"
   ],
-  "main": "./inherits.js",
-  "browser": "./inherits_browser.js",
+  "main": "./inherits_browser.js", 
   "repository": "git://github.com/isaacs/inherits",
   "license": "ISC",
   "scripts": {
